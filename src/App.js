@@ -25,7 +25,7 @@ function App() {
                       About me
                     </h1>
                     <div class="text-block-2">
-                      <p>I am a Florida, U.S based software engineer especializing in iOS and Swift development - with a hint of web. I graduated from the University of South Florida with a Bachelor's of Science in Mechanical Engineering - and advocate for open source Swift projects and using Swift outside of iOS development.</p>
+                      <p>A Florida based software engineer specializing in iOS and Swift development - with a hint of web. I graduated from the University of South Florida with a Bachelor's of Science in Mechanical Engineering - and advocate for open source Swift projects and using Swift outside of iOS development.</p>
                       <p>When I am not developing award-winning iOS applications for InspiringApps, you can catch me rock climbing 🧗🏻‍♂️, dabbling in other tech stacks 👨🏻‍💻, or finding ways to contribute to Swift open source projects 🧠</p>
                       <p>Want to connect? Don't be a stranger! <a href='mailto:hello@juan.codes'>hello@juan.codes</a> </p>
                     </div>
